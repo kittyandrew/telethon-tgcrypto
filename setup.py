@@ -1,13 +1,13 @@
 import setuptools
 
 setuptools.setup(
-    name='telethon-cryptg',
+    name='telethon-tgcrypto',
     version='0.0.3',
     description='telethon bindings for the tgcrypto module',
     long_description=open('README.rst').read().strip(),
     author='Painor',
     author_email='pi.oussama@gmail.com',
-    url='https://github.com/painor/telethon-tgcrypto',
+    url='https://github.com/kittyandrew/telethon-tgcrypto',
     packages=setuptools.find_packages(),
     install_requires=['tgcrypto'],
     license='MIT License',
