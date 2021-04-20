@@ -27,3 +27,7 @@ Credits
    for making `telethon <https://github.com/LonamiWebs/Telethon>`__
 -  `unknown <https://github.com/explore>`__ `d <https://github.com/delivrance>`__\ `eveloper <https://github.com/explore>`__
    for the fast crypto module
+
+Donation
+~~~~~~~~
+BTC: ``1AamJXehCH9zobBzCucQ3Zo5ipbJtkGREr``
